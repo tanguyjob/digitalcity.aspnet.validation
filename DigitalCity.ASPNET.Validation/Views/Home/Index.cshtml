@@ -1,0 +1,13 @@
+﻿@model ICollection<Product>
+@{
+    ViewData["Title"] = "Liste des produits";
+}
+
+<h1>Liste de mes produits</h1>
+
+<a asp-controller="Home" asp-action="Add">Ajouter</a>
+
+@foreach(Product p in Model)
+{
+    <p>@p.Id / @p.Name / @p.Price</p>
+}
