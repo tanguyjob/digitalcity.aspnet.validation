@@ -24,3 +24,29 @@ C:\Users\tanguy\Source\Repos\DigitalCity.ASPNET.Validation\DigitalCity.ASPNET.Va
 C:\Users\tanguy\Source\Repos\DigitalCity.ASPNET.Validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.pdb
 C:\Users\tanguy\Source\Repos\DigitalCity.ASPNET.Validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.genruntimeconfig.cache
 C:\Users\tanguy\Source\Repos\DigitalCity.ASPNET.Validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\ref\DigitalCity.ASPNET.Validation.dll
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\bin\Debug\net6.0\appsettings.json
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\bin\Debug\net6.0\DigitalCity.ASPNET.Validation.staticwebassets.runtime.json
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\bin\Debug\net6.0\DigitalCity.ASPNET.Validation.exe
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\bin\Debug\net6.0\DigitalCity.ASPNET.Validation.deps.json
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\bin\Debug\net6.0\DigitalCity.ASPNET.Validation.runtimeconfig.json
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\bin\Debug\net6.0\DigitalCity.ASPNET.Validation.dll
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\bin\Debug\net6.0\DigitalCity.ASPNET.Validation.pdb
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.csproj.AssemblyReference.cache
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.AssemblyInfoInputs.cache
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.AssemblyInfo.cs
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.csproj.CoreCompileInputs.cache
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.RazorAssemblyInfo.cache
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.RazorAssemblyInfo.cs
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\scopedcss\bundle\DigitalCity.ASPNET.Validation.styles.css
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\scopedcss\projectbundle\DigitalCity.ASPNET.Validation.bundle.scp.css
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.dll
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\refint\DigitalCity.ASPNET.Validation.dll
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.pdb
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\DigitalCity.ASPNET.Validation.genruntimeconfig.cache
+C:\Users\STG1257\Desktop\ASP NET\digitalcity.aspnet.validation\DigitalCity.ASPNET.Validation\obj\Debug\net6.0\ref\DigitalCity.ASPNET.Validation.dll

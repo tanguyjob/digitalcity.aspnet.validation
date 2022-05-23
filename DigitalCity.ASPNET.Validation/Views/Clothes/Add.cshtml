@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ClothesForm
+@{
+    ViewBag.Title = "Formulaire d'ajout de vetement";
+}
+
+
+
+<h1>Ajouter un nouveau vetement</h1>
+
+<form>
+    <div>
+    @Html.LabelFor(model => model.Name)
+    @Html.EditorFor(model => model.Name, null,new {@class= "form-control"})
+    @Html.ValidationMessageFor(model => model.Name)
+    </div>
+
+     <div>
+    @Html.LabelFor(model => model.Color)
+    @Html.EditorFor(model => model.Color)
+    @Html.ValidationMessageFor(model => model.Color)
+    </div>
+
+        <div>
+    @Html.LabelFor(model => model.)
+    @Html.EditorFor(model => model.Color)
+    @Html.ValidationMessageFor(model => model.Color)
+    </div>
+
+    
+</form>

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tanguy\\Source\\Repos\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation.csproj": {}
+    "C:\\Users\\STG1257\\Desktop\\ASP NET\\digitalcity.aspnet.validation\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tanguy\\Source\\Repos\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation.csproj": {
+    "C:\\Users\\STG1257\\Desktop\\ASP NET\\digitalcity.aspnet.validation\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tanguy\\Source\\Repos\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation.csproj",
+        "projectUniqueName": "C:\\Users\\STG1257\\Desktop\\ASP NET\\digitalcity.aspnet.validation\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation.csproj",
         "projectName": "DigitalCity.ASPNET.Validation",
-        "projectPath": "C:\\Users\\tanguy\\Source\\Repos\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation.csproj",
-        "packagesPath": "C:\\Users\\tanguy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tanguy\\Source\\Repos\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation\\obj\\",
+        "projectPath": "C:\\Users\\STG1257\\Desktop\\ASP NET\\digitalcity.aspnet.validation\\DigitalCity.ASPNET.Validation\\DigitalCity.ASPNET.Validation.csproj",
+        "packagesPath": "C:\\Users\\STG1257\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STG1257\\Desktop\\ASP NET\\digitalcity.aspnet.validation\\DigitalCity.ASPNET.Validation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tanguy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\STG1257\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\STG1257\\Documents\\Nuggets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

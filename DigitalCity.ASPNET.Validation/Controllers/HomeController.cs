@@ -8,7 +8,7 @@ namespace DigitalCity.ASPNET.Validation.Controllers
 
     public class HomeController : Controller
     {
-        private ICollection<Product> _product = new List<Product>()
+        private static ICollection<Product> _product = new List<Product>()
         {
             new Product() { Id = 1, Name ="Pomme", Price=2 },
             new Product() { Id = 2, Name ="Poire", Price=3 },
