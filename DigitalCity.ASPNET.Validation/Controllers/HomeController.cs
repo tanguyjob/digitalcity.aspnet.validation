@@ -1,5 +1,6 @@
 ﻿using DigitalCity.ASPNET.Validation.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Diagnostics;
 
 namespace DigitalCity.ASPNET.Validation.Controllers
@@ -21,6 +22,8 @@ namespace DigitalCity.ASPNET.Validation.Controllers
         {
             return View(_product);
         }
+
+      
 
         public IActionResult Add()
         {

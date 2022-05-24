@@ -1,5 +1,6 @@
 ﻿using DigitalCity.ASPNET.Validation.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DigitalCity.ASPNET.Validation.Controllers
 {
@@ -22,12 +23,21 @@ namespace DigitalCity.ASPNET.Validation.Controllers
             return View(_Clothes);
         }
 
+        private IEnumerable<SelectListItem> GetSizeSelectList()
+        {
+            IEnumerable<SelectListItem> sizeSelectList = Enum.GetValues<ClothesSize>()
+            .Select(s => new SelectListItem(
+                s.ToString(),
+                ((int)s).ToString()
+                ));
+
+            return sizeSelectList;
+        }
 
 
-        
         public IActionResult Add()
         {
-            return View(new ClothesForm());            
+            return View(new ClothesForm());
         }
 
         [HttpPost]

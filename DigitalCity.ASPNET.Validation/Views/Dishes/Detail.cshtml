@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Dishes
+@{
+    ViewData["Title"] = Model.Name;
+}
+<h1>Nom: @Model.Name</h1>
+<h1>Type de plat: @Model.Type</h1>
+
+<h3>
+    Ingredients:
+     @*<td>@Html.DisplayFor(d => string.Join(",",dishes.Ingredients.ToArray() ))</td>*@
+                @*<td>@string.Join(",",@Html.DisplayFor(d => dishes.Ingredients))</td>*@               
+                   @for (int i=0; i < Model.Ingredients.Count; i++)
+                   {
+                        @Html.DisplayFor(d => Model.Ingredients[i])
+                        
+                        if (i < Model.Ingredients.Count-1)
+                        {
+                            <span>, </span>
+                        }
+                    }
+               
+</h3>
+
+<h3>Description: @Model.Description</h3>

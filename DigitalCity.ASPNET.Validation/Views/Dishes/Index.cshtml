@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Dishes>
+@{
+    ViewBag.Title = "Liste de mes titres";
+}
+
+<h1>Liste des plats</h1>
+
+@Html.ActionLink("Ajouter un plat","Add", "Dishes", null, new {@class="btn btn-dark"})
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(d => d.Name)</th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Dishes dish in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(d => dish.Name)</td>
+                <td>@Html.ActionLink("Detail", "Detail","Dishes", new {Id = dish.Id }, new { @class="btn btn-outline-dark" })</td>
+            </tr>
+        }
+    </tbody>
+
+</table>

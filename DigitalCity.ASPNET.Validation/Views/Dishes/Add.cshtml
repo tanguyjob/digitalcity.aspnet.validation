@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Ajouter un nouveau Plat";
+}
+
+<h1>Ajout d'un nouveau plat</h1>
+
+@if(!ViewContext.ModelState.IsValid)
+{
+    @Html.ValidationSummary(false,"", new { @class="text-danger" })
+}
+
+<form>
+    <div class="mb-2">
+        <label class="form-label">Nom</label>
+        <input class="form-control" name="name" type="text"/>
+    </div>
+    <div class="mb-2">
+        <label class="form-label">Type</label>
+        <input class="form-control" name="Type" type="text"/>
+    </div>
+    <div class="mb-2">
+        <label class="form-label">Premier ingredient</label>
+        <input class="form-control" name="Ingredients1" type="text"/>
+    </div>
+     <div class="mb-2">
+        <label class="form-label">Deuxième ingredient</label>
+        <input class="form-control" name="Ingredients2" type="text"/>
+    </div>
+     <div class="mb-2">
+        <label class="form-label">Troisième ingredient</label>
+        <input class="form-control" name="Ingredients3" type="text"/>
+    </div>
+
+      <div class="mt-5">
+        <button class="btn btn-dark" type="submit">Envoyer</button>
+    </div>
+ 
+</form>

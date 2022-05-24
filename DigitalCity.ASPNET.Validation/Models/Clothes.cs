@@ -50,7 +50,7 @@ namespace DigitalCity.ASPNET.Validation.Models
         [DisplayName("taille")]
         [Required]
        
-        public int Size { get; set; }
+        public ClothesSize Size { get; set; }
 
         [DisplayName("température de lavage")]
         [Required]
@@ -71,5 +71,7 @@ namespace DigitalCity.ASPNET.Validation.Models
         public double Price { get; set; }
 
     }
+
+
 
 }
